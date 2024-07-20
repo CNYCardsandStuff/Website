@@ -37,3 +37,12 @@ body {
 .sidenav a:hover {
 	left: 0;
 }
+.home {
+	top: 20px;
+	background-color: green;
+}
+
+.shop {
+	top: 80px;
+	background-color: yellow;
+}
